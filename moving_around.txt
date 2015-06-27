@@ -1,0 +1,316 @@
+pwd
+cd
+
+# put history output into less program
+history | less
+history
+clear
+
+#../.. moves prompt up two directies
+../..
+cd ...
+ls -rt /
+# list files in the root folder
+ls /
+ls ~
+cd Documents
+cd~
+cd D
+cd ../documents
+ls
+cd ../Applications/
+cd ..
+ls -l
+cd Applications/
+cd documents
+cd applications
+cd ../
+cd../
+cd d
+cd /Users/johnsanford
+ls -g
+ls -c
+ls -a
+
+#man shows manual instructions for prgrams like cd, ls
+man ls
+ls -rt
+ls -r
+ls -lt
+
+#list files by time.  Newest first
+ls -t
+cd /
+git config --global user.email
+git config --global user.email 'johnsanfordstudio@gmail.com'
+git config --global user.email 'jonsanfordstudio@gmail.com'
+git config --global user.name
+which git
+git status
+git --version
+brew update
+brew doctor
+chmod 777 example1
+chmod 444 example1
+cd linuxtutorialwork/
+ls -ld Documents/
+ld -ld
+ls *.conf
+ls *.????
+ls *.???
+ls /etc
+cd etc
+cd /tec
+file /Users/johnsanford/*
+ls [bf]*
+ls [be]*
+ls ?o*
+ls ?o
+ls /Users/johnsanford/linuxtutorialwork/ f*
+ls f*
+ls *f
+rm -r bar
+touch example31
+cd bar/
+cd foo
+mv foofoo foofoofoo
+mv file1 file21
+mv example2 example21
+touch example3
+touch example2
+touch example1
+nano file1
+cd foo3/
+cd  backups/
+rm example1
+git config --global user.name 'John Sanford'
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew help
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+sudo xcodebuild -license
+uname
+cd Users/johnsanford/linuxtutorialwork
+mv linuxtutorialwork/foofoo Users/johnsanford/linuxtutorialwork/booboo
+mv linuxtutorialwork/foofoo johnsanford/linuxtutorialwork/booboo
+man path
+mv linuxtutorialwork/foofoo johnsanford/booboo
+mkdir foofoo
+mv
+cd backups
+mv barney backups/
+mv foo2 backups/foo3
+mkdir backups
+mkdir foo2
+mkdir -p foo/bar
+cp example1 barney
+../
+mkdir linuxtutorialwork
+cd /johnsanford/Documents
+cd /Documents
+ man -k a
+cd /Library
+cd -Library
+cd -Documents
+cd -/Documents
+ls /user/johnsanford
+ls -ls
+ls-a
+man file
+file
+file --help
+file -f
+file /Documents
+cd ../../
+cd /var/log
+cd /bin
+cd /etc
+cd /home/johnsanford/Documents
+ls ../../
+ls /users/johnsanford/Documents
+ls ../
+ls /home/johnsanford/Documents
+ls ./Documents
+ls ~/Documents
+ls ~Documents
+echo $SHELL
+ls -l /home/john
+$ ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+sudo $ ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+subl.
+man less
+man rm
+man mv
+man cp
+man touch
+man mkdir
+man man
+cd ~/Documents
+cd /Users/johnsanford/Documents
+ls -l ~
+ls moving_around.txt
+ls bababa
+ls -t
+ls -l
+ls
+history > moving_around.txt
+pwd
+cd
+history | less
+history
+clear
+../..
+cd ...
+ls -rt /
+ls /
+ls ~
+cd Documents
+cd~
+cd D
+cd ../documents
+cd ../Applications/
+cd ..
+cd Applications/
+cd documents
+cd applications
+cd ../
+cd../
+cd d
+cd /Users/johnsanford
+ls -g
+ls -c
+ls -a
+man ls
+ls -rt
+ls -r
+ls -lt
+cd /
+git config --global user.email
+git config --global user.email 'johnsanfordstudio@gmail.com'
+git config --global user.email 'jonsanfordstudio@gmail.com'
+git config --global user.name
+which git
+git status
+git --version
+brew update
+brew doctor
+chmod 777 example1
+chmod 444 example1
+cd linuxtutorialwork/
+ls -ld Documents/
+ld -ld
+ls *.conf
+ls *.????
+ls *.???
+ls /etc
+cd etc
+cd /tec
+file /Users/johnsanford/*
+ls [bf]*
+ls [be]*
+ls ?o*
+ls ?o
+ls /Users/johnsanford/linuxtutorialwork/ f*
+ls f*
+ls *f
+rm -r bar
+touch example31
+cd bar/
+cd foo
+mv foofoo foofoofoo
+mv file1 file21
+mv example2 example21
+touch example3
+touch example2
+touch example1
+nano file1
+cd foo3/
+cd  backups/
+rm example1
+git config --global user.name 'John Sanford'
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew help
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+sudo xcodebuild -license
+uname
+cd Users/johnsanford/linuxtutorialwork
+mv linuxtutorialwork/foofoo Users/johnsanford/linuxtutorialwork/booboo
+mv linuxtutorialwork/foofoo johnsanford/linuxtutorialwork/booboo
+man path
+mv linuxtutorialwork/foofoo johnsanford/booboo
+mkdir foofoo
+mv
+cd backups
+mv barney backups/
+mv foo2 backups/foo3
+mkdir backups
+mkdir foo2
+mkdir -p foo/bar
+cp example1 barney
+../
+mkdir linuxtutorialwork
+cd /johnsanford/Documents
+cd /Documents
+ man -k a
+cd /Library
+cd -Library
+cd -Documents
+cd -/Documents
+ls /user/johnsanford
+ls -ls
+ls-a
+man file
+file
+file --help
+file -f
+file /Documents
+cd ../../
+cd /var/log
+cd /bin
+cd /etc
+cd /home/johnsanford/Documents
+ls ../../
+ls /users/johnsanford/Documents
+ls ../
+ls /home/johnsanford/Documents
+ls ./Documents
+ls ~/Documents
+ls ~Documents
+echo $SHELL
+ls -l /home/john
+$ ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+sudo $ ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+subl.
+man less
+man rm
+man mv
+man cp
+man touch
+man mkdir
+man man
+cd ~/Documents
+cd /Users/johnsanford/Documents
+ls -l ~
