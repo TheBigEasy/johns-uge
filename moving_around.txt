@@ -4,6 +4,7 @@ cd
 # put history output into less program
 history | less
 history
+#clear moves screen to top to clearr space to see better
 clear
 
 #../.. moves prompt up two directies
